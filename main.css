@@ -1,0 +1,16 @@
+body {
+  font-family: 'Lato';
+}
+
+h1 {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+}
+
+img#burger_logo {
+  float: left;
+}
+
