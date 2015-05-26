@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <title>dylburger</title>
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-63348257-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+  </head>
+<body>
+  <h1>dylburger.com</h1>
+  <h2>The Dyl Burger</h2>
+  <p>Makes 4 burgers</p>
+  <ul id="burger_recipe">
+    <li>1 lb ground beef</li>
+    <li>1/2 lb ground pork</li>
+    <li>1/2 lb sausage</li>
+    <li>5 cloves garlic</li>
+    <li>1 habanero pepper</li>
+    <li>2 serrano peppers</li>
+    <li>1 tbsp Sriracha</li>
+    <li>1 tbsp soy sauce</li>
+    <li>1 tbsp spicy mustard</li>
+    <li>1 tsp crushed fennel</li>
+    <li>1 tsp pepper</li>
+  </ul>
+  <br />
+  <img id="burger_logo" src="burger.png" alt="Dyl Burger logo" />
+</body>
+
+</html>
