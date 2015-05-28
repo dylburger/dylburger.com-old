@@ -10,6 +10,10 @@ ul {
   list-style-type: none;
 }
 
+ul#burger_recipe {
+  list-style-type: circle;
+}
+
 img#burger_logo {
   float: left;
 }
