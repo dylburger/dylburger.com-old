@@ -1,6 +1,8 @@
 <html>
   <head>
-    <title>dylburger</title>
+    <title>dylburger - burger</title>
+    <meta name="description" content="The dylburger recipe">
+    <meta charset="UTF-8">
     <link rel="shortcut icon" href="favicon.ico" />
     <link rel="stylesheet" type="text/css" href="main.css">
     <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
