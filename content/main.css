@@ -4,6 +4,12 @@ body {
 
 h1 {
   font-weight: bold;
+  font-size: 10vw;
+  margin-bottom: 0em;
+}
+
+a {
+  font-size: 20px;
 }
 
 ul {
@@ -15,6 +21,12 @@ ul#burger_recipe {
 }
 
 img#burger_logo {
-  float: left;
+  margin-top: 2em;
 }
 
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
