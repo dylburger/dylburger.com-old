@@ -8,8 +8,12 @@ h1 {
   margin-bottom: 0em;
 }
 
+h3 {
+  font-size: 5vw;
+}
+
 a {
-  font-size: 20px;
+  font-size: 5vw;
 }
 
 ul {
@@ -29,4 +33,9 @@ img#burger_logo {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+.obfuscate {
+  unicode-bidi: bidi-override; 
+  direction: rtl;
 }
