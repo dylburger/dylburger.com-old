@@ -1,9 +1,8 @@
 <html>
   <head>
-    <title>dylburger</title>
-    <meta name="description" content="Home of the dylburger">
+    <title>dylburger - recipes</title>
+    <meta name="description" content="Recipes Index">
     <meta charset="UTF-8">
-    <meta name="viewport" content="initial-scale=1">
     <link rel="shortcut icon" href="favicon.ico" />
     <link rel="stylesheet" type="text/css" href="main.css">
     <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -18,13 +17,14 @@
 
     </script>
   </head>
-<body class="parent">
+<body>
   <h1>dylburger.com</h1>
-  <h3 class="obfuscate">moc.regrublyd@nalyd</h3>
-  <a href="https://www.linkedin.com/in/dylansather">LinkedIn</a>
-  <a href="https://github.com/dylburger">GitHub</a>
-  <a href="recipes">Recipes</a>
-  <a href="dylburger.key">gpg key</a>
+  <h2>Burgers</h2>
+  <ul>
+    <li><a href="burger">The Dyl Burger</a></li>
+    <li><a href="asian-burger">Asian Burger</a></li>
+  </ul>
+  <br />
   <img id="burger_logo" src="burger.png" alt="Dyl Burger logo" />
 </body>
 

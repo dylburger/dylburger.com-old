@@ -1,0 +1,51 @@
+<html>
+  <head>
+    <title>dylburger - Asian Burger</title>
+    <meta name="description" content="The Asian Dylburger recipe">
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-63348257-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+  </head>
+<body>
+  <h1>dylburger.com</h1>
+  <h2>Asian Burger Recipe</h2>
+  <p>Makes 6-8 burgers</p>
+  <ul id="burger_recipe">
+    <li>2 lbs ground beef</li>
+    <li>1 lb ground pork</li>
+    <li>4 cloves garlic</li>
+    <li>2 shallots</li>
+    <li>1/2 cup chopped green onions (half for meat, half for garnish)</li>
+    <li>1 cup Shiitake mushrooms</li>
+    <li>3 tbsp Gochujang (Korean hot pepper paste)</li>
+    <li>2 tbsp soy sauce</li>
+    <li>1 tsp crushed fennel</li>
+    <li>1 tsp Chinese Five Spice</li>
+    <li>1 tsp ground ginger</li>
+    <li>1 tsp crushed chili peppers</li>
+    <li>1/2 tsp nutmeg</li>
+    <li>1/2 tsp pepper</li>
+    <li>Wasabi to taste</li>
+  </ul>
+  <br />
+  <ol>
+    <li>Wipe shiitake mushrooms with wet paper towel to clean. Chop mushrooms, garlic and shallots finely. Cook mushrooms in sesame oil over medium heat until tender, about 5 min. After mushrooms are cooked, toss in garlic and shallots and cook for 2 min.</li>
+    <li>Grind fennel with mortar and pestle, mix remaining spices.</li>
+    <li>Mix beef, pork, mushrooms, garlic, shallots, 1/4 cup green onions, Gochujang, soy sauce, spices together well. Form into 6-8 patties. Let sit in fridge for at least 1 hour.</li>
+    <li>Cook over open flame, toast bun. Spread additional Gochujang paste on top of burger, garnish with remaining green onions. Spread small amount of wasabi paste on bun to taste. Enjoy.</li>
+  <br />
+  <img id="burger_logo" src="burger.png" alt="Dyl Burger logo" />
+</body>
+
+</html>
